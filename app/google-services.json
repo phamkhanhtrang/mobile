@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "708357294668",
+    "project_id": "infor-f31c7",
+    "storage_bucket": "infor-f31c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708357294668:android:de8d347fbbb1f68a8f82e9",
+        "android_client_info": {
+          "package_name": "com.example.infor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgE5cKvWetdtRkIUz2Omqrqj4PI2r9R1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
